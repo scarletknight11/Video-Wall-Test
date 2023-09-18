@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{66F266CA-4D24-CB93-C84E-0BE5722AFD40}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/OnlineVideoLoader.cs">
+    <Files>
+      <File FileName="Assets/Scripts/OnlineVideoLoader.cs" Line="18" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Video-Wall-Test" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="494ca94c-2a65-418b-ba02-f024f831e88e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
