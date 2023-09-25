@@ -57,11 +57,14 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/YoutubeDl/RemoteYoutubeDl.cs">
+      <Link>Runtime/YoutubeDl/RemoteYoutubeDl.cs</Link>
+    </Compile>
     <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/YoutubePlayer.cs">
       <Link>Runtime/YoutubePlayer.cs</Link>
     </Compile>
-    <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/Invidious/InvidiousPlayer.cs">
-      <Link>Runtime/Invidious/InvidiousPlayer.cs</Link>
+    <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/WebRequest.cs">
+      <Link>Runtime/WebRequest.cs</Link>
     </Compile>
     <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/YoutubeDl/LocalYoutubeDl.cs">
       <Link>Runtime/YoutubeDl/LocalYoutubeDl.cs</Link>
@@ -69,23 +72,17 @@
     <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/YoutubeDl/LocalYoutubeDlUpdater.cs">
       <Link>Runtime/YoutubeDl/LocalYoutubeDlUpdater.cs</Link>
     </Compile>
-    <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/VideoPlayerExtensions.cs">
-      <Link>Runtime/VideoPlayerExtensions.cs</Link>
+    <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/Invidious/InvidiousPlayer.cs">
+      <Link>Runtime/Invidious/InvidiousPlayer.cs</Link>
     </Compile>
     <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/YoutubeDl/IYoutubeDl.cs">
       <Link>Runtime/YoutubeDl/IYoutubeDl.cs</Link>
     </Compile>
-    <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/YoutubeDl/YoutubeDlOptions.cs">
-      <Link>Runtime/YoutubeDl/YoutubeDlOptions.cs</Link>
-    </Compile>
     <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/YoutubePlaylistFlatEntry.cs">
       <Link>Runtime/YoutubePlaylistFlatEntry.cs</Link>
     </Compile>
-    <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/YoutubeDl/YoutubeDl.cs">
-      <Link>Runtime/YoutubeDl/YoutubeDl.cs</Link>
-    </Compile>
-    <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/YoutubeDl/RemoteYoutubeDl.cs">
-      <Link>Runtime/YoutubeDl/RemoteYoutubeDl.cs</Link>
+    <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/YoutubeDl/YoutubeDlOptions.cs">
+      <Link>Runtime/YoutubeDl/YoutubeDlOptions.cs</Link>
     </Compile>
     <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/YoutubeVideoFormat.cs">
       <Link>Runtime/YoutubeVideoFormat.cs</Link>
@@ -93,20 +90,23 @@
     <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/Invidious/InvidiousApi.cs">
       <Link>Runtime/Invidious/InvidiousApi.cs</Link>
     </Compile>
-    <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/YoutubeDl/YoutubeDlCli.cs">
-      <Link>Runtime/YoutubeDl/YoutubeDlCli.cs</Link>
-    </Compile>
-    <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/YoutubeVideoMetadata.cs">
-      <Link>Runtime/YoutubeVideoMetadata.cs</Link>
-    </Compile>
     <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/YoutubeDownloader.cs">
       <Link>Runtime/YoutubeDownloader.cs</Link>
+    </Compile>
+    <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/YoutubeDl/YoutubeDl.cs">
+      <Link>Runtime/YoutubeDl/YoutubeDl.cs</Link>
+    </Compile>
+    <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/YoutubeDl/YoutubeDlCli.cs">
+      <Link>Runtime/YoutubeDl/YoutubeDlCli.cs</Link>
     </Compile>
     <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/YoutubePlaylistFlatMetadata.cs">
       <Link>Runtime/YoutubePlaylistFlatMetadata.cs</Link>
     </Compile>
-    <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/WebRequest.cs">
-      <Link>Runtime/WebRequest.cs</Link>
+    <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/YoutubeVideoMetadata.cs">
+      <Link>Runtime/YoutubeVideoMetadata.cs</Link>
+    </Compile>
+    <Compile Include="/Users/sanjitsingh/Documents/GitHub/UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/VideoPlayerExtensions.cs">
+      <Link>Runtime/VideoPlayerExtensions.cs</Link>
     </Compile>
   </ItemGroup>
   <ItemGroup>

@@ -1,19 +1,15 @@
 ﻿<Properties StartupConfiguration="{66F266CA-4D24-CB93-C84E-0BE5722AFD40}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/YoutubePlayer/Scripts/VideoMetadata.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/Invidious/InvidiousPlayer.cs">
     <Files>
       <File FileName="Assets/Scripts/OnlineVideoLoader.cs" Line="9" Column="37" />
       <File FileName="Assets/YoutubePlayer/Scripts/VideoMetadata.cs" Line="1" Column="1" />
+      <File FileName="../UnityYoutubePlayer/Packages/com.ibicha.youtube-player/Runtime/Invidious/InvidiousPlayer.cs" Line="29" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Video-Wall-Test" expanded="True">
-            <Node name="Assets" expanded="True" selected="True">
-              <Node name="Scripts" expanded="True" />
-              <Node name="YoutubePlayer" expanded="True">
-                <Node name="Scripts" expanded="True" />
-              </Node>
-            </Node>
+            <Node name="Assets" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -21,7 +17,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e9d1f79c-f7e8-4cdd-b877-755a05e358bb" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dbf5d551-9039-4c31-b843-78849fe35cca" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
