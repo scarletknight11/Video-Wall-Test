@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.TestRunner", "UnityEngine.TestRunner.csproj", "{8EF185FC-82DA-BF24-C966-5A7A209FC2C2}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.UI", "UnityEngine.UI.csproj", "{A9046B4A-AA43-29F0-4096-369C390EE86B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.TestRunner", "UnityEngine.TestRunner.csproj", "{8EF185FC-82DA-BF24-C966-5A7A209FC2C2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.VisualScripting.Flow", "Unity.VisualScripting.Flow.csproj", "{1378514F-3F11-AD2E-9E8D-3BE768C2D7B9}"
 EndProject
@@ -63,14 +63,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8EF185FC-82DA-BF24-C966-5A7A209FC2C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8EF185FC-82DA-BF24-C966-5A7A209FC2C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8EF185FC-82DA-BF24-C966-5A7A209FC2C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8EF185FC-82DA-BF24-C966-5A7A209FC2C2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A9046B4A-AA43-29F0-4096-369C390EE86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A9046B4A-AA43-29F0-4096-369C390EE86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9046B4A-AA43-29F0-4096-369C390EE86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9046B4A-AA43-29F0-4096-369C390EE86B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF185FC-82DA-BF24-C966-5A7A209FC2C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF185FC-82DA-BF24-C966-5A7A209FC2C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF185FC-82DA-BF24-C966-5A7A209FC2C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF185FC-82DA-BF24-C966-5A7A209FC2C2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1378514F-3F11-AD2E-9E8D-3BE768C2D7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1378514F-3F11-AD2E-9E8D-3BE768C2D7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1378514F-3F11-AD2E-9E8D-3BE768C2D7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU

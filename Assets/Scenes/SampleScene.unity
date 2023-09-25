@@ -262,7 +262,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   videoPlayer: {fileID: 1779834313}
-  videoUrl: yourvideourl
+  videoUrl: https://www.youtube.com/embed/rtIlGHIdN1w
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
